@@ -1,1 +1,1 @@
-document.write("This text comes from an external script.");
+document.querySelector("#HEADLINE53 .ladi-headline").innerText = 'TEST';
